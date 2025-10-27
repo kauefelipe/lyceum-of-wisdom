@@ -5336,5 +5336,15 @@ R: Amarelo, verde e branco
 Questão 1325
 Qual é o signo do zodíaco chinês do ano lunar que começa em 10 de fevereiro de 2024?
 R: Dragão
-.
 
+Questão 1326
+Quando a Ilíada foi escrita?
+R: Século VIII AEC
+
+Questão 1327
+Quem jogou a Maçã da DIscórdia que desencadeou a disputa entre as três deusas?
+R: Eris
+
+Questão 1328
+Qual deus do rio ajudou os troianos durante a Guerra de Troia?
+R: Escamandro
