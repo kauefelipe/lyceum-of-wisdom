@@ -5353,5 +5353,27 @@ Questão 1329
 Quem escreveu "Ifigênia em Áulis", um relato da Guerra de Troia?
 R: Eurípedes
 
+Questão 1330  
 Quem procurou e persuadiu Aquiles a se juntar à Guerra de Troia?
 R: Odisseu
+
+Questão 1331
+Qual destas afirmações sobre Sarpédon é FALSA?
+R: Ele era um inimigo de Troia
+
+Questão 1332
+Nos épicos de Homero, o que frequentemente mudava as ondas da Guerra de Troia?
+R: Intervenção dos deuses
+
+Questão 1333
+Reconhecida como a mulher mais bela do mundo e a catalisadora da Guerra de Troia, Helena era filha de qual Deus?
+R: Zeus
+
+Questão 1334
+Quem implorou a Aquiles para devolver o corpo de Heitor?
+R: Príamo
+
+Questão 1335
+Qual dessas afirmações NÃO descreve Ájax, o Grande?
+R: Ele era irmão de Ájax, o Menor
+
