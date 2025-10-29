@@ -5348,3 +5348,10 @@ R: Eris
 Questão 1328
 Qual deus do rio ajudou os troianos durante a Guerra de Troia?
 R: Escamandro
+
+Questão 1329
+Quem escreveu "Ifigênia em Áulis", um relato da Guerra de Troia?
+R: Eurípedes
+
+Quem procurou e persuadiu Aquiles a se juntar à Guerra de Troia?
+R: Odisseu
